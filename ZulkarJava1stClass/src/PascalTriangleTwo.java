@@ -52,8 +52,11 @@ public class PascalTriangleTwo {
 		System.out.println(anyObject);
 	}
 	
+	// this is a print method
+	
 	static void pr(Object anyObject){
 		System.out.print(anyObject);
 	}
 
+	
 }
